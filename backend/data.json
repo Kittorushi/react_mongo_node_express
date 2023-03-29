@@ -1,0 +1,24 @@
+ { 
+
+ "owneraddress":"0012345addresschange678900",
+ "ownerbalance":99,
+  "wallets" : [ 
+    { "walletaddress": "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo",  "walletbalance": 99 },
+    { "walletaddress": "37XuVSEpWW4trkfmvWzegTHQt7BdktSKUs",  "walletbalance": 99 },
+    { "walletaddress": "3JJmF63ifcamPLiAmLgG96RA599yNtY3EQ",  "walletbalance": 99 },
+    { "walletaddress": "35WHp4Hid61peyH4tuhNunwRj2gtNB41Lo",  "walletbalance": 99 },
+    { "walletaddress": "1KbrSKrT3GeEruTuuYYUSQ35JwKbrAWJYm",  "walletbalance": 99 },
+    { "walletaddress": "1PeizMg76Cf96nUQrYg8xuoZWLQozU5zGW",  "walletbalance": 99 },
+    { "walletaddress": "1BAuq7Vho2CEkVkUxbfU26LhwQjbCmWQkD",  "walletbalance": 99 },
+    { "walletaddress": "12tLs9c9RsALt4ockxa1hB4iTCTSmxj2me",  "walletbalance": 99 },
+    { "walletaddress": "39gUvGynQ7Re3i15G3J2gp9DEB9LnLFPMN",  "walletbalance": 99 },
+    { "walletaddress": "1GR9qNz7zgtaW5HwwVpEJWMnGWhsbsieCG",  "walletbalance": 99 },
+    { "walletaddress": "1FZy7CPFA2UqqQJYUA1cG9KvdDFbSMBJYG",  "walletbalance": 99 },
+    { "walletaddress": "3FrmCRcGKiTATfreBDM9F17yAUDoDsnWeA",  "walletbalance": 99 },
+    { "walletaddress": "1ucXXZQSEf4zny2HRwAQKtVpkLPTUKRtt",  "walletbalance": 99 },
+    { "walletaddress": "3C8mzzeiyakvXkQadUM5f98zCt5NQWwXo1",  "walletbalance": 99 },
+    { "walletaddress": "17uULjz9moeLyjXHoKNwDRgKzf8ahY3Jia",  "walletbalance": 99 }
+
+ ]
+  
+}

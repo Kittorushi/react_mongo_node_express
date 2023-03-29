@@ -1,0 +1,110 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.receipt{
+  margin: 30px 25px;
+  padding: 25px;
+  inline-size: 700px;
+  border: 2px solid #000;
+}
+
+.transaction{
+  padding: 30px;
+  inline-size: 650px;
+  
+}
+.dropdown-container {
+  text-align: left;
+  border: 1px solid #ccc;
+  position: relative;
+  border-radius: 5px;
+}
+
+.dropdown-input {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  user-select: none;
+}
+
+
+.dropdown-menu {
+  position: absolute; 
+  transform: translateY(4px);
+  width: 100%; 
+  border: 1px solid #ccc; 
+  overflow: auto; 
+  max-height: 150px; 
+  background-color: #fff; 
+  border-radius: 5px;
+}
+  
+
+  .dropdown-item {
+  padding: 5px;
+  cursor: pointer;
+  }
+  
+  .dropdown-item:hover {
+  background-color: #9fc3f870;
+  
+  }
+
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 15px 8px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.nav-menu-item{
+  margin: 50px;
+}
+
+.td {
+  border: 1px solid black;
+  padding: 10px;
+}
