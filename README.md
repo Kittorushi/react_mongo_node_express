@@ -42,4 +42,8 @@ Open [http://localhost:4000/json] to view it in your browser.
 
 ## All data is dynamic and fetch from mongo db directly.
 
+![Screenshot (256)](https://user-images.githubusercontent.com/50754786/228408097-e348f356-16b0-4b61-84a6-178a508e8703.png)
+![Screenshot (257)](https://user-images.githubusercontent.com/50754786/228408104-58f53900-d93a-4d66-a62a-66464e5a7ae5.png)
+![Screenshot (258)](https://user-images.githubusercontent.com/50754786/228408109-0ff63e8b-bf1d-4649-bafe-cdc482ac4072.png)
+
 
